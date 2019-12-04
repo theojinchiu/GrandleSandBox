@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanNumeralConverterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-12-04T08:09:19" hostname="Theos-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="Convert_VI_To_6" classname="RomanNumeralConverterTest" time="0.002"/>
+  <testcase name="Convert_I_To_1" classname="RomanNumeralConverterTest" time="0.0"/>
+  <testcase name="Convert_V_To_5" classname="RomanNumeralConverterTest" time="0.0"/>
+  <testcase name="Convert_III_To_3" classname="RomanNumeralConverterTest" time="0.0"/>
+  <testcase name="Convert_II_To_2" classname="RomanNumeralConverterTest" time="0.001"/>
+  <testcase name="Convert_IV_To_4" classname="RomanNumeralConverterTest" time="0.0"/>
+  <testcase name="Convert_IX_To_9" classname="RomanNumeralConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
